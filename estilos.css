@@ -16,3 +16,9 @@ body{
 .container h1{
     font-weight: bold;
 }
+
+.cabecera{
+    padding-left: 0;
+    text-align: left;
+
+}
