@@ -46,7 +46,7 @@ p{
 }
 
 .container .post p:last-child{
-    font-family: curier;
+    font-family:cursive;
     border-top: 2px solid blue;
     padding-top: 30px;
 }
