@@ -37,7 +37,6 @@ body{
     display: flex;
     align-items: center;
     padding: 0;
-    justify-content: center;
 }
 .cabecera p:first-child{
     font-size: 30px;
