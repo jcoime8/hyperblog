@@ -22,8 +22,9 @@ body{
     padding: 1cm;
 }
 .imagen{
-    height: 50px;
-    width: 50px;
+    margin-left: 20px;
+    height: 45px;
+    width: 45px;
     border-radius: 25%;
     margin-right: 10px;
     background-color: black;
