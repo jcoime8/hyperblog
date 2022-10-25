@@ -4,12 +4,13 @@ body{
     font-size: 16px;
     display: flex;
     justify-content: center;
+    background-color: rgba(0,0,0,0.75);
 }
 
 .container{
     width: 70%;
     padding: 0;
-    border: 1px solid rgba(0, 0, 0, 0.452);
+    border: 1px solid rgba(4, 119, 48, 0.589);
     margin: 0;
 }
 
